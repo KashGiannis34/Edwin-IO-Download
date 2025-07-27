@@ -2,7 +2,11 @@
 
 This folder contains the production build of the **Edwin IO** Chrome extension, which enables hands-free control of your browser using real-time hand gesture recognition via your webcam.
 
-## Installation (Load Unpacked Extension)
+## Updated Installation
+
+This extension is now available on the Chrome webstore. [Click Here](https://chrome.google.com/webstore/detail/bnfehhpejojffoplpnimdodfidgfmhdc) to view the webstore installation page.
+
+## Developer Installation (Load Unpacked Extension)
 
 1. **Download or Clone the Repository:**
    - If you haven't already, download or clone the Edwin-IO-Download repository.
